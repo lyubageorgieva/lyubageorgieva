@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning MERN stack and wish to polish my skills.
 - 👩‍💻 Looking for an internship in Software Development for SUMMER 2022.
 - 📫 How to reach me: lyubageorgieva@hotmail.com
-- 😄 Pronouns: She/Her
 - ✈  Goal: Go on student exchange for FALL 2022 in the United Kingdom.
 
 <!--
