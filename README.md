@@ -4,12 +4,13 @@
 
 
 ## **Language and tools**
- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="30"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="30"> <img src="https://img.icons8.com/color/48/000000/css3.png" height="30"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="30"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="30"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" height="30"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" height="30"/> 
+ <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="30"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="30"> <img src="https://img.icons8.com/color/48/000000/css3.png" height="30"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="30"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="30"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" height="30"/><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" height="30"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"  height="30"/>
  
  
 ## **About me**
 - 🌱 I’m currently learning MERN stack and wish to polish my skills.
-- 👩‍💻 Looking for an internship in Software Development for SUMMER 2022.
+- 👩‍💻 Next on the learning agenda: <img src="https://user-images.githubusercontent.com/74876532/156446125-88e0398f-bf5b-4478-a487-eebc178f57ba.svg" height="20"/> 
 - 📫 How to reach me: lyubageorgieva@hotmail.com
-- ✈  Goal: Go on student exchange for FALL 2022 in the United Kingdom.
+- ✈  Goal: Go on student exchange for FALL 2022.
+<!-- - 👩‍💻  -->
 
