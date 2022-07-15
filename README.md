@@ -8,8 +8,7 @@
  
  
 ## **About me**
-- 🌱 I’m currently learning MERN stack and wish to polish my skills.
-- 👩‍💻 Next on the learning agenda: <img src="https://user-images.githubusercontent.com/74876532/156446125-88e0398f-bf5b-4478-a487-eebc178f57ba.svg" height="20"/> 
+- 🌱 I’m currently learning C#.
 - 📫 How to reach me: lyubageorgieva@hotmail.com
 - ✈  Goal: Go on student exchange for FALL 2022.
 <!-- - 👩‍💻  -->
