@@ -13,11 +13,3 @@
 - ✈  Goal: Go on student exchange for FALL 2022.
 <!-- - 👩‍💻  -->
 
-
-## **Github Stats**
-
-![lyubageorgieva's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyubageorgieva&theme=tokyonight&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyubageorgieva&theme=tokyonight)](https://github.com/lyubageorgieva/github-readme-stats)
-
-
