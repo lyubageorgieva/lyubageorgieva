@@ -1,5 +1,6 @@
 # Hi, I'm Lyuba 🤩
-![Heading (1)](https://user-images.githubusercontent.com/74876532/149448656-69fd73f7-490c-4170-a1f0-c081142f0f03.png)
+![HeadingGithub](https://github.com/user-attachments/assets/d1273438-3770-4ce0-b1ef-a18c525223ba)
+
 
 
 
